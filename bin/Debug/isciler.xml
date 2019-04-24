@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<isciler>
+	<isci sicil="2101">
+		<ad>Ali</ad>
+		<gorev>Müdür</gorev>
+		<ucret>5000</ucret>
+	</isci>
+	<isci sicil="2202">
+		<ad>Murat</ad>
+		<gorev>Muhasebe</gorev>
+		<ucret>4000</ucret>
+	</isci>
+	<isci sicil="2403">
+		<ad>Ceren</ad>
+		<gorev>Tasarım</gorev>
+		<ucret>4700</ucret>
+	</isci>
+</isciler>
